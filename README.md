@@ -7,6 +7,7 @@ para un negocio de alquiler de juegos y una landing que vende con pagos en líne
 - 🛠️ **Móvil:** Flutter · Dart · Firebase (Auth, Firestore, Cloud Functions)
 - 🌐 **Web:** Next.js · React · JavaScript · Node.js · Supabase (PostgreSQL) · Vercel
 - 🖥️ **Escritorio:** Electron · Three.js
+- 🟣 **Backend:** C# · .NET 8 · ASP.NET Core · Entity Framework Core · MySQL
 - 🐍 **Python:** Flask · automatización
 - 💳 **Integraciones:** pagos con Wompi, AdMob, compras dentro de la app, notificaciones
 
@@ -38,6 +39,12 @@ Landing que vende una guía en PDF: pago con Wompi, verificación de la transacc
 servidor y descarga con enlace firmado (HMAC) para que el archivo no quede público.
 `JavaScript` `Vercel Functions` `Wompi` `HMAC`
 **[Ver en vivo →](https://sin-rodeos-landing.vercel.app)** · **[Ver vitrina →](https://github.com/elkinlc10-svg/sin-rodeos)** · Código privado
+
+### 📚 SmartBook — API REST para una librería
+API en C# con arquitectura por capas (Web API, aplicación, dominio y persistencia), patrón Repository,
+DTOs y reglas de negocio para el inventario de una librería escolar.
+`C#` `.NET 8` `ASP.NET Core` `Entity Framework Core` `MySQL` `Swagger`
+**[Ver código →](https://github.com/elkinlc10-svg/elkinlc10-SmartBook)**
 
 ### 🕹️ TicTacon — colección de minijuegos
 App Flutter con varios minijuegos, manejo de estado con Provider, sonidos y guardado local.
