@@ -5,7 +5,7 @@ una tienda en línea en producción, una app bíblica en Flutter, un sistema de 
 para un negocio de alquiler de juegos y una landing que vende con pagos en línea.
 
 - 🛠️ **Móvil:** Flutter · Dart · Firebase (Auth, Firestore, Cloud Functions)
-- 🌐 **Web:** JavaScript · Node.js · HTML/CSS · Vercel (funciones serverless)
+- 🌐 **Web:** Next.js · React · JavaScript · Node.js · Supabase (PostgreSQL) · Vercel
 - 🖥️ **Escritorio:** Electron · Three.js
 - 🐍 **Python:** Flask · automatización
 - 💳 **Integraciones:** pagos con Wompi, AdMob, compras dentro de la app, notificaciones
@@ -16,8 +16,8 @@ para un negocio de alquiler de juegos y una landing que vende con pagos en líne
 
 ### 🛍️ Boom Detalles — tienda en línea (en producción)
 Tienda de detalles y regalos con catálogo y pedidos, publicada en Vercel.
-**[Ver la tienda en vivo →](https://boom-detalles-tienda.vercel.app)**
-Código privado (negocio real)
+`Next.js` `React` `Supabase` `PostgreSQL` `Wompi` `Vercel`
+**[Ver la tienda en vivo →](https://boom-detalles-tienda.vercel.app)** · **[Ver vitrina →](https://github.com/elkinlc10-svg/boom-detalles)** · Código privado (negocio real)
 
 ### 📖 Lumina — app bíblica para jóvenes
 App Flutter con inicio de sesión (Google y correo), progreso por niveles y mundos, quizzes en
