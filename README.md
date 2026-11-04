@@ -24,20 +24,20 @@ App Flutter con inicio de sesión (Google y correo), progreso por niveles y mund
 español e inglés, lectura en voz alta, notificaciones diarias, widget de pantalla de inicio,
 anuncios y compras dentro de la app.
 `Flutter` `Firebase Auth` `Firestore` `Cloud Functions` `AdMob` `Compras in-app`
-Código privado
+**[Ver vitrina →](https://github.com/elkinlc10-svg/lumina-app)** · Código privado
 
 ### 🎮 Zona Gamer — kiosco de alquiler de juegos
 Aplicación de escritorio en modo kiosco para un local de alquiler de PC por tiempo: los jugadores
 piden turno desde su control, el encargado cobra con PIN y el sistema activa cada control,
 lleva ventas, perfiles y ranking. Se reinicia sola si se cae.
 `Electron` `Three.js` `Node.js` `Python`
-Código privado (negocio real)
+**[Ver vitrina →](https://github.com/elkinlc10-svg/zona-gamer-kiosco-vitrina)** · Código privado (negocio real)
 
 ### 💸 Sin Rodeos — landing con pagos en línea
 Landing que vende una guía en PDF: pago con Wompi, verificación de la transacción en el
 servidor y descarga con enlace firmado (HMAC) para que el archivo no quede público.
 `JavaScript` `Vercel Functions` `Wompi` `HMAC`
-Código privado
+**[Ver en vivo →](https://sin-rodeos-landing.vercel.app)** · **[Ver vitrina →](https://github.com/elkinlc10-svg/sin-rodeos)** · Código privado
 
 ### 🕹️ TicTacon — colección de minijuegos
 App Flutter con varios minijuegos, manejo de estado con Provider, sonidos y guardado local.
