@@ -42,16 +42,19 @@ Código privado
 ### 🕹️ TicTacon — colección de minijuegos
 App Flutter con varios minijuegos, manejo de estado con Provider, sonidos y guardado local.
 `Flutter` `Provider` `SharedPreferences`
+**[Ver código →](https://github.com/elkinlc10-svg/tictacon)**
 
 ### 🙌 100 Cristianos Dicen — juego de concurso
 Juego estilo concurso para eventos: una pantalla para el presentador y otra para el público,
 sincronizadas en el navegador, con preguntas cargadas desde JSON y efectos de sonido.
 `JavaScript` `HTML/CSS`
+**[Jugar →](https://elkinlc10-svg.github.io/100-cristianos-dicen/)** · **[Ver código →](https://github.com/elkinlc10-svg/100-cristianos-dicen)**
 
 ### 🎬 YoutubeMP4 — conversor de video local
 Aplicación web local en Flask que baja videos en 1080p, 720p o 480p, permite recortar y quitar
 el audio. Descarga por partes en paralelo con caché y un puente HTTP local para ffmpeg.
 `Python` `Flask` `yt-dlp` `ffmpeg` `Concurrencia`
+**[Ver código →](https://github.com/elkinlc10-svg/youtube-mp4)**
 
 ---
 
